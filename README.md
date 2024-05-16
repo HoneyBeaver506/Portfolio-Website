@@ -4,7 +4,7 @@ This is a portfolio website built using Next.js and published using Choreo.
 
 ## Overview
 
-This portfolio website serves as a showcase of my work, skills, and experiences in the field Web Development. It is built with Next.js, a React framework, to provide a fast and seamless user experience. The website is deployed using Choreo, ensuring easy deployment and management.
+This portfolio website serves as a showcase of my work, skills, and experiences in the field of Web Development. It is built with Next.js, a React framework, to provide a fast and seamless user experience. The website is deployed using Choreo, ensuring easy deployment and management.
 
 ## Features
 
@@ -31,4 +31,4 @@ To run this project locally, follow these steps:
 
 ## License
 
-This project is licensed under the MIT Licence See the `LICENSE` file for details.
+This project is licensed under the CC0 1.0 Universal. See the `LICENSE` file for details.
